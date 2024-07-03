@@ -1,0 +1,12 @@
+C:\Users\Jose Daniel Briceño\source\repos\boleteria de cine\boleteria de cine\bin\Debug\boleteria de cine.exe.config
+C:\Users\Jose Daniel Briceño\source\repos\boleteria de cine\boleteria de cine\bin\Debug\boleteria de cine.exe
+C:\Users\Jose Daniel Briceño\source\repos\boleteria de cine\boleteria de cine\bin\Debug\boleteria de cine.pdb
+C:\Users\Jose Daniel Briceño\source\repos\boleteria de cine\boleteria de cine\bin\Debug\boleteria de cine.xml
+C:\Users\Jose Daniel Briceño\source\repos\boleteria de cine\boleteria de cine\obj\Debug\boleteria de cine.vbproj.AssemblyReference.cache
+C:\Users\Jose Daniel Briceño\source\repos\boleteria de cine\boleteria de cine\obj\Debug\boleteria_de_cine.Form1.resources
+C:\Users\Jose Daniel Briceño\source\repos\boleteria de cine\boleteria de cine\obj\Debug\boleteria_de_cine.Resources.resources
+C:\Users\Jose Daniel Briceño\source\repos\boleteria de cine\boleteria de cine\obj\Debug\boleteria de cine.vbproj.GenerateResource.cache
+C:\Users\Jose Daniel Briceño\source\repos\boleteria de cine\boleteria de cine\obj\Debug\boleteria de cine.vbproj.CoreCompileInputs.cache
+C:\Users\Jose Daniel Briceño\source\repos\boleteria de cine\boleteria de cine\obj\Debug\boleteria de cine.exe
+C:\Users\Jose Daniel Briceño\source\repos\boleteria de cine\boleteria de cine\obj\Debug\boleteria de cine.xml
+C:\Users\Jose Daniel Briceño\source\repos\boleteria de cine\boleteria de cine\obj\Debug\boleteria de cine.pdb
